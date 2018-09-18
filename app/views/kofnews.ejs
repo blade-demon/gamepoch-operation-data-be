@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Gamepoch新闻数据统计</title>
+
+    <!-- Bootstrap -->
+    <link href="../vendors/gentelella/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="../vendors/gentelella/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="../vendors/gentelella/vendors/nprogress/nprogress.css" rel="stylesheet">
+    <!-- iCheck -->
+    <link href="../vendors/gentelella/vendors/iCheck/skins/flat/green.css" rel="stylesheet">
+
+    <!-- bootstrap-progressbar -->
+    <link href="../vendors/gentelella/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css"
+          rel="stylesheet">
+    <!-- JQVMap -->
+    <link href="../vendors/gentelella/vendors/jqvmap/dist/jqvmap.min.css" rel="stylesheet"/>
+    <!-- bootstrap-daterangepicker -->
+    <link href="../vendors/gentelella/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="../vendors/gentelella/build/css/custom.min.css" rel="stylesheet">
+</head>
+
+<body class="nav-md">
+<div class="container body">
+    <div class="main_container">
+        <div class="col-md-3 left_col">
+            <div class="left_col scroll-view">
+                <div class="navbar nav_title" style="border: 0;">
+                    <a href="#" class="site_title"><!--i class=""></i--> <span>Gamepoch</span></a>
+                </div>
+                <div class="clearfix"></div>
+                <br/>
+
+                <!-- sidebar menu -->
+                <%- include("./partials/sidebar.ejs") %>
+                <!-- /sidebar menu -->
+            </div>
+        </div>
+
+        <!-- top navigation -->
+        <%- include("./partials/topNavigation")%>
+        <!-- /top navigation -->
+
+        <!-- page content -->
+        <div class="right_col" role="main">
+            <div class="row">
+                <p hidden id='kofNewsLabel'><%= JSON.stringify(kofNews)%></p>
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                    <div class="x_panel tile">
+                        <div class="x_title">
+                            <h2>拳皇官网新闻列表</h2>
+                            <ul class="nav navbar-right panel_toolbox">
+                                <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+                                       aria-expanded="false"><i class="fa fa-wrench"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="#">Settings 1</a>
+                                        </li>
+                                        <li><a href="#">Settings 2</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a class="close-link"><i class="fa fa-close"></i></a>
+                                </li>
+                            </ul>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="x_content">
+                            <div class="dashboard-widget-content">
+                                <div class="col-md-12 col-xs-12">
+                                    <ol>
+                                        <% for( var i=0; i < kofNews.length; i++) { %>
+                                            <li>
+                                                新闻主题：<%= kofNews[i].title %>
+                                                <a href="http://kof.gamepoch.com/news/news<%= kofNews[i].id%>" target="_blank"><strong>>></strong></a>
+                                                </br>
+                                                <strong>发布时间：<%= kofNews[i].date %></strong>
+                                                </br>
+                                            </li>
+                                        <% } %>
+                                    </ol>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-sm-12 col-xs-12">
+                    <div class="x_panel tile">
+                        <div class="x_title">
+                            <h2>《拳皇14》官网实时访问量</h2>
+                            <ul class="nav navbar-right panel_toolbox">
+                                <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                                </li>
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+                                       aria-expanded="false"><i class="fa fa-wrench"></i></a>
+                                    <ul class="dropdown-menu" role="menu">
+                                        <li><a href="#">Settings 1</a>
+                                        </li>
+                                        <li><a href="#">Settings 2</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li><a class="close-link"><i class="fa fa-close"></i></a>
+                                </li>
+                            </ul>
+                            <div class="clearfix"></div>
+                        </div>
+                        <div class="x_content">
+                            <div class="dashboard-widget-content">
+                                <div id="container" style="min-width:400px;height:800px"></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+        </div>
+        </div>
+        <!-- /page content -->
+
+        <!-- footer content -->
+        <footer>
+            <div class="pull-right">
+                上海星游纪信息技术有限公司 <a href="http://www.gamepoch.com">Gamepoch</a>
+            </div>
+            <div class="clearfix"></div>
+        </footer>
+        <!-- /footer content -->
+    </div>
+</div>
+
+<!-- jQuery -->
+<script src="../vendors/gentelella/vendors/jquery/dist/jquery.min.js"></script>
+<!-- Bootstrap -->
+<script src="../vendors/gentelella/vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+<!-- FastClick -->
+<script src="../vendors/gentelella/vendors/fastclick/lib/fastclick.js"></script>
+<!-- NProgress -->
+<script src="../vendors/gentelella/vendors/nprogress/nprogress.js"></script>
+<!-- Chart.js -->
+<script src="../vendors/gentelella/vendors/Chart.js/dist/Chart.min.js"></script>
+<!-- gauge.js -->
+<script src="../vendors/gentelella/vendors/gauge.js/dist/gauge.min.js"></script>
+<!-- bootstrap-progressbar -->
+<script src="../vendors/gentelella/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script>
+<!-- iCheck -->
+<script src="../vendors/gentelella/vendors/iCheck/icheck.min.js"></script>
+<!-- Skycons -->
+<script src="../vendors/gentelella/vendors/skycons/skycons.js"></script>
+<!-- Flot -->
+<script src="../vendors/gentelella/vendors/Flot/jquery.flot.js"></script>
+<script src="../vendors/gentelella/vendors/Flot/jquery.flot.pie.js"></script>
+<script src="../vendors/gentelella/vendors/Flot/jquery.flot.time.js"></script>
+<script src="../vendors/gentelella/vendors/Flot/jquery.flot.stack.js"></script>
+<script src="../vendors/gentelella/vendors/Flot/jquery.flot.resize.js"></script>
+<!-- Flot plugins -->
+<script src="../vendors/gentelella/vendors/flot.orderbars/js/jquery.flot.orderBars.js"></script>
+<script src="../vendors/gentelella/vendors/flot-spline/js/jquery.flot.spline.min.js"></script>
+<script src="../vendors/gentelella/vendors/flot.curvedlines/curvedLines.js"></script>
+<!-- DateJS -->
+<script src="../vendors/gentelella/vendors/DateJS/build/date.js"></script>
+<!-- JQVMap -->
+<script src="../vendors/gentelella/vendors/jqvmap/dist/jquery.vmap.js"></script>
+<script src="../vendors/gentelella/vendors/jqvmap/dist/maps/jquery.vmap.world.js"></script>
+<script src="../vendors/gentelella/vendors/jqvmap/examples/js/jquery.vmap.sampledata.js"></script>
+<!-- bootstrap-daterangepicker -->
+<script src="../vendors/gentelella/vendors/moment/min/moment.min.js"></script>
+<script src="../vendors/gentelella/vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
+
+<!-- Custom Theme Scripts -->
+<script src="../vendors/gentelella/build/js/custom.min.js"></script>
+<!-- High Charts -->
+<script src="https://img.hcharts.cn/highcharts/highcharts.js"></script>
+<script src="https://img.hcharts.cn/highcharts/modules/exporting.js"></script>
+<script src="https://img.hcharts.cn/highcharts-plugins/highcharts-zh_CN.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script src="../js/kof.js"></script>
+</body>
+</html>

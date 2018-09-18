@@ -1,0 +1,5 @@
+node_modules/
+app/public/vendors
+.idea
+.c9
+.vscode

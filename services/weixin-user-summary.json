@@ -1,0 +1,10975 @@
+[{
+    "ref_date": "2016-01-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-01-26",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-02-04",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-02-18",
+    "user_source": 0,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-02-18",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-02-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-02-23",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-02-23",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-02-23",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-02-24",
+    "user_source": 0,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-02-24",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-02-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-02-29",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-03",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-07",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-10",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-17",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-17",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-20",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-23",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-23",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-03-24",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-25",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-03-25",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-26",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-03-26",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-27",
+    "user_source": 1,
+    "new_user": 9,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-03-27",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-27",
+    "user_source": 30,
+    "new_user": 7,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-03-31",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-03-31",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-31",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-03-31",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-06",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-06",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-06",
+    "user_source": 57,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-04-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-04-11",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-12",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-18",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2016-04-22",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-22",
+    "user_source": 57,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-24",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-04-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-25",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-25",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-04-26",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-26",
+    "user_source": 57,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-27",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-27",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-28",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-29",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-04-29",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-05-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-05-06",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-05-06",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-10",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-11",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-13",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-18",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-22",
+    "user_source": 30,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-05-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-25",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-26",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-05-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-05-27",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-06-02",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-06-03",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-06-04",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-06-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-06-11",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-06-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-06-15",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-06-15",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-06-15",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-06-16",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-06-17",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-06-17",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-06-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-06-21",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-06-21",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-06-22",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-06-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-06-24",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-06-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-06-29",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-06-29",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-07-07",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-07-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-07-19",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-07-20",
+    "user_source": 0,
+    "new_user": 15,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-07-20",
+    "user_source": 1,
+    "new_user": 8,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-20",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-07-20",
+    "user_source": 30,
+    "new_user": 59,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-21",
+    "user_source": 0,
+    "new_user": 3,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2016-07-21",
+    "user_source": 1,
+    "new_user": 7,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-07-21",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-21",
+    "user_source": 30,
+    "new_user": 33,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2016-07-22",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-22",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-22",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-07-22",
+    "user_source": 30,
+    "new_user": 10,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-23",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-07-23",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-23",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-23",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-24",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-24",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-07-24",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-25",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2016-07-25",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-25",
+    "user_source": 30,
+    "new_user": 9,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-25",
+    "user_source": 57,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-26",
+    "user_source": 0,
+    "new_user": 8,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2016-07-26",
+    "user_source": 1,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-26",
+    "user_source": 17,
+    "new_user": 21,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-26",
+    "user_source": 30,
+    "new_user": 27,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-26",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-26",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-27",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2016-07-27",
+    "user_source": 1,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-27",
+    "user_source": 17,
+    "new_user": 4,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-07-27",
+    "user_source": 30,
+    "new_user": 68,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-27",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-28",
+    "user_source": 0,
+    "new_user": 93,
+    "cancel_user": 101
+  },
+  {
+    "ref_date": "2016-07-28",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-28",
+    "user_source": 17,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-28",
+    "user_source": 30,
+    "new_user": 920,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-28",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-29",
+    "user_source": 0,
+    "new_user": 90,
+    "cancel_user": 218
+  },
+  {
+    "ref_date": "2016-07-29",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-29",
+    "user_source": 17,
+    "new_user": 9,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-07-29",
+    "user_source": 30,
+    "new_user": 810,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-29",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-30",
+    "user_source": 0,
+    "new_user": 267,
+    "cancel_user": 418
+  },
+  {
+    "ref_date": "2016-07-30",
+    "user_source": 1,
+    "new_user": 15,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-30",
+    "user_source": 17,
+    "new_user": 8,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-30",
+    "user_source": 30,
+    "new_user": 1177,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2016-07-31",
+    "user_source": 0,
+    "new_user": 114,
+    "cancel_user": 178
+  },
+  {
+    "ref_date": "2016-07-31",
+    "user_source": 1,
+    "new_user": 14,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-31",
+    "user_source": 17,
+    "new_user": 11,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-07-31",
+    "user_source": 30,
+    "new_user": 1046,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-07-31",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-01",
+    "user_source": 0,
+    "new_user": 33,
+    "cancel_user": 84
+  },
+  {
+    "ref_date": "2016-08-01",
+    "user_source": 1,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-01",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-01",
+    "user_source": 30,
+    "new_user": 414,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-08-02",
+    "user_source": 0,
+    "new_user": 38,
+    "cancel_user": 55
+  },
+  {
+    "ref_date": "2016-08-02",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-02",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-02",
+    "user_source": 30,
+    "new_user": 532,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-03",
+    "user_source": 0,
+    "new_user": 37,
+    "cancel_user": 70
+  },
+  {
+    "ref_date": "2016-08-03",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-03",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-08-03",
+    "user_source": 30,
+    "new_user": 465,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-08-04",
+    "user_source": 0,
+    "new_user": 36,
+    "cancel_user": 51
+  },
+  {
+    "ref_date": "2016-08-04",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-04",
+    "user_source": 17,
+    "new_user": 8,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-04",
+    "user_source": 30,
+    "new_user": 440,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-08-05",
+    "user_source": 0,
+    "new_user": 40,
+    "cancel_user": 65
+  },
+  {
+    "ref_date": "2016-08-05",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-05",
+    "user_source": 30,
+    "new_user": 482,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2016-08-06",
+    "user_source": 0,
+    "new_user": 83,
+    "cancel_user": 120
+  },
+  {
+    "ref_date": "2016-08-06",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-06",
+    "user_source": 17,
+    "new_user": 12,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-06",
+    "user_source": 30,
+    "new_user": 777,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-08-07",
+    "user_source": 0,
+    "new_user": 61,
+    "cancel_user": 86
+  },
+  {
+    "ref_date": "2016-08-07",
+    "user_source": 1,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-07",
+    "user_source": 17,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-07",
+    "user_source": 30,
+    "new_user": 719,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2016-08-08",
+    "user_source": 0,
+    "new_user": 37,
+    "cancel_user": 68
+  },
+  {
+    "ref_date": "2016-08-08",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-08",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-08",
+    "user_source": 30,
+    "new_user": 412,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-08-09",
+    "user_source": 0,
+    "new_user": 45,
+    "cancel_user": 72
+  },
+  {
+    "ref_date": "2016-08-09",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-09",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-09",
+    "user_source": 30,
+    "new_user": 580,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-10",
+    "user_source": 0,
+    "new_user": 45,
+    "cancel_user": 87
+  },
+  {
+    "ref_date": "2016-08-10",
+    "user_source": 17,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-10",
+    "user_source": 30,
+    "new_user": 434,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-08-11",
+    "user_source": 0,
+    "new_user": 35,
+    "cancel_user": 69
+  },
+  {
+    "ref_date": "2016-08-11",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-11",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-11",
+    "user_source": 30,
+    "new_user": 381,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-08-12",
+    "user_source": 0,
+    "new_user": 33,
+    "cancel_user": 66
+  },
+  {
+    "ref_date": "2016-08-12",
+    "user_source": 1,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-12",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-12",
+    "user_source": 30,
+    "new_user": 363,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-13",
+    "user_source": 0,
+    "new_user": 72,
+    "cancel_user": 95
+  },
+  {
+    "ref_date": "2016-08-13",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-13",
+    "user_source": 17,
+    "new_user": 11,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-13",
+    "user_source": 30,
+    "new_user": 760,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-14",
+    "user_source": 0,
+    "new_user": 71,
+    "cancel_user": 100
+  },
+  {
+    "ref_date": "2016-08-14",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-14",
+    "user_source": 17,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-14",
+    "user_source": 30,
+    "new_user": 711,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-15",
+    "user_source": 0,
+    "new_user": 29,
+    "cancel_user": 74
+  },
+  {
+    "ref_date": "2016-08-15",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-15",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-15",
+    "user_source": 30,
+    "new_user": 382,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2016-08-16",
+    "user_source": 0,
+    "new_user": 21,
+    "cancel_user": 52
+  },
+  {
+    "ref_date": "2016-08-16",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-16",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-16",
+    "user_source": 30,
+    "new_user": 294,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2016-08-17",
+    "user_source": 0,
+    "new_user": 24,
+    "cancel_user": 54
+  },
+  {
+    "ref_date": "2016-08-17",
+    "user_source": 1,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-17",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-17",
+    "user_source": 30,
+    "new_user": 271,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-18",
+    "user_source": 0,
+    "new_user": 30,
+    "cancel_user": 703
+  },
+  {
+    "ref_date": "2016-08-18",
+    "user_source": 1,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-18",
+    "user_source": 17,
+    "new_user": 14,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-18",
+    "user_source": 30,
+    "new_user": 356,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2016-08-18",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-18",
+    "user_source": 57,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-19",
+    "user_source": 0,
+    "new_user": 23,
+    "cancel_user": 87
+  },
+  {
+    "ref_date": "2016-08-19",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-19",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-19",
+    "user_source": 30,
+    "new_user": 370,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2016-08-19",
+    "user_source": 57,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-20",
+    "user_source": 0,
+    "new_user": 101,
+    "cancel_user": 136
+  },
+  {
+    "ref_date": "2016-08-20",
+    "user_source": 1,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-20",
+    "user_source": 17,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-20",
+    "user_source": 30,
+    "new_user": 820,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-08-20",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-21",
+    "user_source": 0,
+    "new_user": 97,
+    "cancel_user": 153
+  },
+  {
+    "ref_date": "2016-08-21",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-21",
+    "user_source": 17,
+    "new_user": 7,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-21",
+    "user_source": 30,
+    "new_user": 795,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2016-08-21",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-22",
+    "user_source": 0,
+    "new_user": 37,
+    "cancel_user": 92
+  },
+  {
+    "ref_date": "2016-08-22",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-22",
+    "user_source": 17,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-22",
+    "user_source": 30,
+    "new_user": 394,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-08-22",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-23",
+    "user_source": 0,
+    "new_user": 31,
+    "cancel_user": 76
+  },
+  {
+    "ref_date": "2016-08-23",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-23",
+    "user_source": 30,
+    "new_user": 317,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-08-24",
+    "user_source": 0,
+    "new_user": 42,
+    "cancel_user": 610
+  },
+  {
+    "ref_date": "2016-08-24",
+    "user_source": 1,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-24",
+    "user_source": 17,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-24",
+    "user_source": 30,
+    "new_user": 291,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-25",
+    "user_source": 0,
+    "new_user": 38,
+    "cancel_user": 171
+  },
+  {
+    "ref_date": "2016-08-25",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-25",
+    "user_source": 17,
+    "new_user": 12,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-25",
+    "user_source": 30,
+    "new_user": 334,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-26",
+    "user_source": 0,
+    "new_user": 28,
+    "cancel_user": 81
+  },
+  {
+    "ref_date": "2016-08-26",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-26",
+    "user_source": 17,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-26",
+    "user_source": 30,
+    "new_user": 334,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-08-27",
+    "user_source": 0,
+    "new_user": 71,
+    "cancel_user": 126
+  },
+  {
+    "ref_date": "2016-08-27",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-27",
+    "user_source": 17,
+    "new_user": 12,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-27",
+    "user_source": 30,
+    "new_user": 764,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2016-08-28",
+    "user_source": 0,
+    "new_user": 131,
+    "cancel_user": 664
+  },
+  {
+    "ref_date": "2016-08-28",
+    "user_source": 17,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-28",
+    "user_source": 30,
+    "new_user": 605,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2016-08-28",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 222
+  },
+  {
+    "ref_date": "2016-08-29",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-08-29",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-29",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-30",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 49
+  },
+  {
+    "ref_date": "2016-08-30",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-30",
+    "user_source": 17,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-30",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-31",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 32
+  },
+  {
+    "ref_date": "2016-08-31",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-31",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-08-31",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 250
+  },
+  {
+    "ref_date": "2016-09-01",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-01",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 58
+  },
+  {
+    "ref_date": "2016-09-02",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 48
+  },
+  {
+    "ref_date": "2016-09-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 26
+  },
+  {
+    "ref_date": "2016-09-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 29
+  },
+  {
+    "ref_date": "2016-09-05",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 27
+  },
+  {
+    "ref_date": "2016-09-06",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 25
+  },
+  {
+    "ref_date": "2016-09-07",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 23
+  },
+  {
+    "ref_date": "2016-09-08",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 31
+  },
+  {
+    "ref_date": "2016-09-09",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-10",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 23
+  },
+  {
+    "ref_date": "2016-09-10",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 21
+  },
+  {
+    "ref_date": "2016-09-11",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 20
+  },
+  {
+    "ref_date": "2016-09-12",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 16
+  },
+  {
+    "ref_date": "2016-09-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 29
+  },
+  {
+    "ref_date": "2016-09-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 24
+  },
+  {
+    "ref_date": "2016-09-15",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 16
+  },
+  {
+    "ref_date": "2016-09-16",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2016-09-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 18
+  },
+  {
+    "ref_date": "2016-09-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 364
+  },
+  {
+    "ref_date": "2016-09-19",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 87
+  },
+  {
+    "ref_date": "2016-09-20",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 29
+  },
+  {
+    "ref_date": "2016-09-21",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-09-21",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 24
+  },
+  {
+    "ref_date": "2016-09-22",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-22",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-22",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-09-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 25
+  },
+  {
+    "ref_date": "2016-09-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 20
+  },
+  {
+    "ref_date": "2016-09-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 17
+  },
+  {
+    "ref_date": "2016-09-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 16
+  },
+  {
+    "ref_date": "2016-09-26",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 20
+  },
+  {
+    "ref_date": "2016-09-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 259
+  },
+  {
+    "ref_date": "2016-09-28",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-28",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 50
+  },
+  {
+    "ref_date": "2016-09-29",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-29",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-09-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 204
+  },
+  {
+    "ref_date": "2016-10-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 224
+  },
+  {
+    "ref_date": "2016-10-01",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 57
+  },
+  {
+    "ref_date": "2016-10-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 28
+  },
+  {
+    "ref_date": "2016-10-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 16
+  },
+  {
+    "ref_date": "2016-10-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 16
+  },
+  {
+    "ref_date": "2016-10-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2016-10-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 22
+  },
+  {
+    "ref_date": "2016-10-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2016-10-08",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 18
+  },
+  {
+    "ref_date": "2016-10-09",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-10-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 20
+  },
+  {
+    "ref_date": "2016-10-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2016-10-11",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2016-10-12",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 15
+  },
+  {
+    "ref_date": "2016-10-13",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2016-10-14",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2016-10-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2016-10-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2016-10-17",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2016-10-18",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2016-10-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 18
+  },
+  {
+    "ref_date": "2016-10-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2016-10-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2016-10-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2016-10-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2016-10-24",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-24",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 163
+  },
+  {
+    "ref_date": "2016-10-25",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-25",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-25",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-26",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 37
+  },
+  {
+    "ref_date": "2016-10-26",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-26",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-26",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-10-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 17
+  },
+  {
+    "ref_date": "2016-10-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 19
+  },
+  {
+    "ref_date": "2016-10-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 19
+  },
+  {
+    "ref_date": "2016-10-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 13
+  },
+  {
+    "ref_date": "2016-10-31",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2016-11-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 13
+  },
+  {
+    "ref_date": "2016-11-01",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-11-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2016-11-02",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2016-11-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2016-11-03",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-11-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2016-11-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2016-11-05",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-05",
+    "user_source": 30,
+    "new_user": 33,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2016-11-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2016-11-06",
+    "user_source": 30,
+    "new_user": 19,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-11-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2016-11-07",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-11-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 13
+  },
+  {
+    "ref_date": "2016-11-08",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 169
+  },
+  {
+    "ref_date": "2016-11-09",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-11-09",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-11-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 44
+  },
+  {
+    "ref_date": "2016-11-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 153
+  },
+  {
+    "ref_date": "2016-11-11",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 20
+  },
+  {
+    "ref_date": "2016-11-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2016-11-13",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-13",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 163
+  },
+  {
+    "ref_date": "2016-11-14",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-11-14",
+    "user_source": 30,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-14",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 36
+  },
+  {
+    "ref_date": "2016-11-15",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-11-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 15
+  },
+  {
+    "ref_date": "2016-11-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 17
+  },
+  {
+    "ref_date": "2016-11-17",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2016-11-18",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2016-11-19",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2016-11-20",
+    "user_source": 30,
+    "new_user": 11,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-20",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2016-11-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2016-11-22",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2016-11-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2016-11-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 13
+  },
+  {
+    "ref_date": "2016-11-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2016-11-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2016-11-27",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-28",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2016-11-28",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2016-11-29",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 153
+  },
+  {
+    "ref_date": "2016-11-30",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-11-30",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 36
+  },
+  {
+    "ref_date": "2016-12-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 121
+  },
+  {
+    "ref_date": "2016-12-02",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 36
+  },
+  {
+    "ref_date": "2016-12-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2016-12-04",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-12-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 115
+  },
+  {
+    "ref_date": "2016-12-05",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 17
+  },
+  {
+    "ref_date": "2016-12-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 13
+  },
+  {
+    "ref_date": "2016-12-07",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-12-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 13
+  },
+  {
+    "ref_date": "2016-12-08",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2016-12-09",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2016-12-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2016-12-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2016-12-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2016-12-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2016-12-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2016-12-15",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 87
+  },
+  {
+    "ref_date": "2016-12-16",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-16",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 18
+  },
+  {
+    "ref_date": "2016-12-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2016-12-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 17
+  },
+  {
+    "ref_date": "2016-12-19",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-19",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2016-12-20",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2016-12-21",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2016-12-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2016-12-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2016-12-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2016-12-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2016-12-25",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2016-12-26",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-12-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 114
+  },
+  {
+    "ref_date": "2016-12-27",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-27",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-27",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2016-12-27",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 25
+  },
+  {
+    "ref_date": "2016-12-28",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2016-12-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2016-12-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2016-12-31",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2017-01-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-01-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-01-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2017-01-04",
+    "user_source": 0,
+    "new_user": 4,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-01-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-01-05",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-06",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 69
+  },
+  {
+    "ref_date": "2017-01-06",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-06",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-07",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 54
+  },
+  {
+    "ref_date": "2017-01-07",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 13
+  },
+  {
+    "ref_date": "2017-01-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-01-10",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-01-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2017-01-11",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-01-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-01-12",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-01-13",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-14",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-01-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-01-15",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-01-16",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-01-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 80
+  },
+  {
+    "ref_date": "2017-01-18",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-18",
+    "user_source": 43,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-18",
+    "user_source": 57,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-01-19",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-01-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-01-21",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-01-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2017-01-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-01-24",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-01-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 80
+  },
+  {
+    "ref_date": "2017-01-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 33
+  },
+  {
+    "ref_date": "2017-01-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-01-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-01-29",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-01-29",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-01-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-01-31",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-02-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-02-01",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-02-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-02-02",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-02-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-02-03",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-02-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-02-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-02-05",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-02-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-02-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-02-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-02-08",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-02-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-02-09",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-02-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-02-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-02-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-02-12",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-02-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-02-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-02-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-02-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-02-16",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-02-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 86
+  },
+  {
+    "ref_date": "2017-02-17",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-02-18",
+    "user_source": 0,
+    "new_user": 17,
+    "cancel_user": 92
+  },
+  {
+    "ref_date": "2017-02-18",
+    "user_source": 1,
+    "new_user": 5,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-02-18",
+    "user_source": 17,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-02-18",
+    "user_source": 30,
+    "new_user": 329,
+    "cancel_user": 62
+  },
+  {
+    "ref_date": "2017-02-18",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-02-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 27
+  },
+  {
+    "ref_date": "2017-02-19",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-02-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 86
+  },
+  {
+    "ref_date": "2017-02-20",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-02-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 39
+  },
+  {
+    "ref_date": "2017-02-21",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-02-21",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-02-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 19
+  },
+  {
+    "ref_date": "2017-02-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-02-23",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-02-24",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-02-24",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-02-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-02-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-02-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-02-27",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-02-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-02-28",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-03-02",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-03-02",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-02",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-03-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-03-04",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-03-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-03-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-03-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-03-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 70
+  },
+  {
+    "ref_date": "2017-03-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 66
+  },
+  {
+    "ref_date": "2017-03-10",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 24
+  },
+  {
+    "ref_date": "2017-03-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2017-03-12",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 17
+  },
+  {
+    "ref_date": "2017-03-13",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 18
+  },
+  {
+    "ref_date": "2017-03-14",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2017-03-15",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-03-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 54
+  },
+  {
+    "ref_date": "2017-03-17",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 20
+  },
+  {
+    "ref_date": "2017-03-18",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-03-19",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2017-03-20",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-03-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-03-22",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-22",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-03-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-03-23",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-03-24",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 70
+  },
+  {
+    "ref_date": "2017-03-24",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-24",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 18
+  },
+  {
+    "ref_date": "2017-03-25",
+    "user_source": 30,
+    "new_user": 17,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-03-26",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2017-03-26",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-03-26",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-03-27",
+    "user_source": 30,
+    "new_user": 9,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-03-28",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 13
+  },
+  {
+    "ref_date": "2017-03-28",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-03-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-03-29",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-03-30",
+    "user_source": 30,
+    "new_user": 7,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-03-30",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-03-31",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 77
+  },
+  {
+    "ref_date": "2017-03-31",
+    "user_source": 30,
+    "new_user": 10,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 26
+  },
+  {
+    "ref_date": "2017-04-01",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-04-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-04-02",
+    "user_source": 30,
+    "new_user": 21,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-04-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-04-03",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-03",
+    "user_source": 30,
+    "new_user": 25,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-04-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-04-04",
+    "user_source": 30,
+    "new_user": 22,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-04-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-04-05",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-05",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-04-06",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-04-06",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-06",
+    "user_source": 30,
+    "new_user": 7,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-04-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 57
+  },
+  {
+    "ref_date": "2017-04-07",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-07",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-08",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 24
+  },
+  {
+    "ref_date": "2017-04-08",
+    "user_source": 30,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-04-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2017-04-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-04-11",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-04-11",
+    "user_source": 30,
+    "new_user": 5,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-04-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-04-13",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-04-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 78
+  },
+  {
+    "ref_date": "2017-04-14",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-04-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 18
+  },
+  {
+    "ref_date": "2017-04-15",
+    "user_source": 30,
+    "new_user": 14,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-04-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-04-16",
+    "user_source": 30,
+    "new_user": 7,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-04-17",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-04-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-04-18",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-04-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-04-19",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-19",
+    "user_source": 30,
+    "new_user": 9,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-04-20",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-04-20",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-20",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-04-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-04-21",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-04-22",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-04-22",
+    "user_source": 30,
+    "new_user": 7,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-04-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-04-23",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-23",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-04-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-04-24",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-25",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-04-25",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-25",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-04-25",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-04-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-04-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-04-27",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 75
+  },
+  {
+    "ref_date": "2017-04-28",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2017-04-29",
+    "user_source": 30,
+    "new_user": 7,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-04-29",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-04-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-04-30",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-05-01",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-01",
+    "user_source": 30,
+    "new_user": 19,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-05-02",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-05-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-05-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 62
+  },
+  {
+    "ref_date": "2017-05-05",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-05-05",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 25
+  },
+  {
+    "ref_date": "2017-05-06",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-05-07",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-05-08",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2017-05-08",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-05-09",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-05-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-05-10",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-05-10",
+    "user_source": 17,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-10",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-05-11",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2017-05-11",
+    "user_source": 30,
+    "new_user": 7,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-05-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-05-12",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-12",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-05-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 48
+  },
+  {
+    "ref_date": "2017-05-13",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-13",
+    "user_source": 17,
+    "new_user": 5,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-05-13",
+    "user_source": 30,
+    "new_user": 12,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-05-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 24
+  },
+  {
+    "ref_date": "2017-05-14",
+    "user_source": 30,
+    "new_user": 19,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-05-14",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-15",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-05-15",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-05-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2017-05-16",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-05-17",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-05-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-05-18",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-05-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-05-19",
+    "user_source": 30,
+    "new_user": 6,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-05-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 74
+  },
+  {
+    "ref_date": "2017-05-20",
+    "user_source": 1,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-20",
+    "user_source": 30,
+    "new_user": 35,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-05-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-05-21",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-21",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-05-22",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-23",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-05-23",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-23",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-24",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-05-24",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-24",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-05-25",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-05-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-05-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-05-27",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 54
+  },
+  {
+    "ref_date": "2017-05-28",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-28",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2017-05-29",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-05-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-05-30",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-30",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-31",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-05-31",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-05-31",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-06-01",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-06-02",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-03",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-06-03",
+    "user_source": 30,
+    "new_user": 5,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-06-04",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-06-04",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-06-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-06-06",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-06-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-06-08",
+    "user_source": 30,
+    "new_user": 5,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-06-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 55
+  },
+  {
+    "ref_date": "2017-06-09",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-09",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-09",
+    "user_source": 30,
+    "new_user": 7,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-06-09",
+    "user_source": 57,
+    "new_user": 4,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-06-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 16
+  },
+  {
+    "ref_date": "2017-06-10",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-10",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-10",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-10",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-06-11",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-11",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-11",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-12",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-06-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-06-13",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-14",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-06-14",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-14",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-06-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-06-15",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 44
+  },
+  {
+    "ref_date": "2017-06-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 15
+  },
+  {
+    "ref_date": "2017-06-17",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-17",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2017-06-18",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-06-19",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-06-20",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-20",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-06-21",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-21",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-06-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-06-22",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-06-23",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-23",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 66
+  },
+  {
+    "ref_date": "2017-06-25",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-06-25",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-25",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-06-26",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-06-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-06-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-06-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-06-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-06-30",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-07-01",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-07-02",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-07-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-07-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-07-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-07-06",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 25
+  },
+  {
+    "ref_date": "2017-07-07",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-07",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 15
+  },
+  {
+    "ref_date": "2017-07-08",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-07-08",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-07-09",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-07-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-07-11",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-07-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-07-12",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-07-12",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-07-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 31
+  },
+  {
+    "ref_date": "2017-07-14",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 16
+  },
+  {
+    "ref_date": "2017-07-15",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-07-16",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-07-16",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-07-17",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-18",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-07-18",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-07-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-07-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-07-20",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-07-21",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-21",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-07-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-07-23",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-07-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-07-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-07-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-07-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-07-27",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-27",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-07-28",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-07-28",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-28",
+    "user_source": 30,
+    "new_user": 10,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-07-28",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-07-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-29",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-07-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-07-30",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-07-31",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-08-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-08-01",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-08-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-08-03",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-04",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-08-04",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 43
+  },
+  {
+    "ref_date": "2017-08-05",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2017-08-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-08-07",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-07",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-08",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-08-08",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-08",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-09",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-08-09",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-08-10",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-08-11",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 48
+  },
+  {
+    "ref_date": "2017-08-12",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-08-12",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-13",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-08-13",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-13",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-08-14",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-15",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-08-15",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-08-15",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-08-16",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-17",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-08-17",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-08-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-08-18",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-18",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-19",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 45
+  },
+  {
+    "ref_date": "2017-08-19",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-08-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2017-08-20",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-08-21",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-08-21",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-08-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-08-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-08-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-08-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 38
+  },
+  {
+    "ref_date": "2017-08-26",
+    "user_source": 57,
+    "new_user": 10,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-08-27",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-08-27",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-28",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 13
+  },
+  {
+    "ref_date": "2017-08-28",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-08-29",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-08-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-08-31",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-08-31",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-01",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 29
+  },
+  {
+    "ref_date": "2017-09-01",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-01",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-01",
+    "user_source": 57,
+    "new_user": 10,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-09-02",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2017-09-02",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-09-02",
+    "user_source": 57,
+    "new_user": 9,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-09-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-09-03",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-09-04",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-04",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-04",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-09-05",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-09-06",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-09-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-09-07",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-09-07",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 38
+  },
+  {
+    "ref_date": "2017-09-08",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-08",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-09-09",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-09-09",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-10",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-09-10",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-11",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-09-11",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-09-12",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 23
+  },
+  {
+    "ref_date": "2017-09-13",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-13",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-13",
+    "user_source": 57,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-14",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 15
+  },
+  {
+    "ref_date": "2017-09-14",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-15",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-09-15",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-09-15",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-15",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-09-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-09-16",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-16",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-16",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-09-17",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-17",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-18",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2017-09-18",
+    "user_source": 30,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-09-19",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-19",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-09-20",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-20",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-09-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-09-21",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-21",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-21",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-09-22",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-22",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-09-23",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-23",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-24",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-09-24",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-24",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-24",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-25",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-09-25",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-09-26",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-26",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-09-27",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-27",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-09-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-09-28",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-09-28",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-09-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-09-29",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-09-29",
+    "user_source": 30,
+    "new_user": 5,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-09-30",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-09-30",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-01",
+    "user_source": 0,
+    "new_user": 4,
+    "cancel_user": 48
+  },
+  {
+    "ref_date": "2017-10-01",
+    "user_source": 1,
+    "new_user": 14,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-10-01",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-01",
+    "user_source": 30,
+    "new_user": 67,
+    "cancel_user": 13
+  },
+  {
+    "ref_date": "2017-10-01",
+    "user_source": 57,
+    "new_user": 7,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-02",
+    "user_source": 0,
+    "new_user": 3,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-10-02",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-02",
+    "user_source": 30,
+    "new_user": 79,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-10-03",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-10-03",
+    "user_source": 1,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-03",
+    "user_source": 30,
+    "new_user": 73,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-10-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-10-04",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-04",
+    "user_source": 30,
+    "new_user": 47,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-10-04",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-10-05",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-05",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-05",
+    "user_source": 30,
+    "new_user": 37,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-10-06",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-10-06",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-06",
+    "user_source": 30,
+    "new_user": 5,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-10-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-07",
+    "user_source": 30,
+    "new_user": 5,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-07",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-08",
+    "user_source": 0,
+    "new_user": 4,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-10-08",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-08",
+    "user_source": 30,
+    "new_user": 10,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-10-09",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-10-09",
+    "user_source": 1,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-09",
+    "user_source": 30,
+    "new_user": 15,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-10-09",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-10",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-10-10",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-10",
+    "user_source": 30,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-11",
+    "user_source": 1,
+    "new_user": 4,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-11",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-11",
+    "user_source": 30,
+    "new_user": 7,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-12",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-10-12",
+    "user_source": 1,
+    "new_user": 6,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-12",
+    "user_source": 30,
+    "new_user": 5,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-10-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-10-13",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-14",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-10-14",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-14",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-10-15",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-10-16",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-16",
+    "user_source": 30,
+    "new_user": 5,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-10-17",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-10-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-18",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-10-18",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-18",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-10-19",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-20",
+    "user_source": 0,
+    "new_user": 43,
+    "cancel_user": 50
+  },
+  {
+    "ref_date": "2017-10-20",
+    "user_source": 1,
+    "new_user": 28,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-20",
+    "user_source": 17,
+    "new_user": 24,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-20",
+    "user_source": 30,
+    "new_user": 319,
+    "cancel_user": 16
+  },
+  {
+    "ref_date": "2017-10-20",
+    "user_source": 57,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-21",
+    "user_source": 0,
+    "new_user": 27,
+    "cancel_user": 22
+  },
+  {
+    "ref_date": "2017-10-21",
+    "user_source": 1,
+    "new_user": 10,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-21",
+    "user_source": 17,
+    "new_user": 15,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-10-21",
+    "user_source": 30,
+    "new_user": 202,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2017-10-21",
+    "user_source": 57,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-22",
+    "user_source": 0,
+    "new_user": 7,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2017-10-22",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-22",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-22",
+    "user_source": 30,
+    "new_user": 41,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-10-22",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-23",
+    "user_source": 0,
+    "new_user": 3,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-10-23",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-23",
+    "user_source": 30,
+    "new_user": 45,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-23",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-24",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-10-24",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-24",
+    "user_source": 30,
+    "new_user": 25,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-10-25",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-10-25",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-25",
+    "user_source": 17,
+    "new_user": 10,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-10-25",
+    "user_source": 30,
+    "new_user": 22,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-10-26",
+    "user_source": 0,
+    "new_user": 4,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-10-26",
+    "user_source": 1,
+    "new_user": 5,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-26",
+    "user_source": 17,
+    "new_user": 14,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-26",
+    "user_source": 30,
+    "new_user": 33,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-10-26",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-10-27",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-27",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-27",
+    "user_source": 30,
+    "new_user": 13,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-28",
+    "user_source": 0,
+    "new_user": 4,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-10-28",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-28",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-28",
+    "user_source": 30,
+    "new_user": 111,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-10-29",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-10-29",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-29",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-29",
+    "user_source": 30,
+    "new_user": 52,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-10-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2017-10-30",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-30",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-30",
+    "user_source": 30,
+    "new_user": 7,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-31",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-10-31",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-10-31",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-10-31",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-11-01",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-11-01",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-01",
+    "user_source": 17,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-01",
+    "user_source": 30,
+    "new_user": 16,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-11-02",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-02",
+    "user_source": 30,
+    "new_user": 10,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-02",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-11-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 66
+  },
+  {
+    "ref_date": "2017-11-03",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-03",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-03",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2017-11-04",
+    "user_source": 17,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-04",
+    "user_source": 30,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-04",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-05",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-11-05",
+    "user_source": 1,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-05",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-05",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-11-06",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-06",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-11-07",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-11-07",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-07",
+    "user_source": 17,
+    "new_user": 11,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-07",
+    "user_source": 30,
+    "new_user": 7,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-11-08",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-11-08",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-08",
+    "user_source": 30,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-08",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-11-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-11-09",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-09",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-09",
+    "user_source": 30,
+    "new_user": 6,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-11-10",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-11-10",
+    "user_source": 1,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-10",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-10",
+    "user_source": 30,
+    "new_user": 6,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-11-11",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 62
+  },
+  {
+    "ref_date": "2017-11-11",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-11",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-11",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-12",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-11-12",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-11-12",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-12",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-11-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-11-13",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-13",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-13",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-14",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-11-14",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-14",
+    "user_source": 17,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-14",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-11-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-11-15",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-15",
+    "user_source": 30,
+    "new_user": 12,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-11-16",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-11-16",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-16",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-11-16",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-11-17",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-11-18",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-18",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-11-19",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-19",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-11-20",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-11-21",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-21",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-11-23",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 64
+  },
+  {
+    "ref_date": "2017-11-23",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-11-23",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-23",
+    "user_source": 57,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 25
+  },
+  {
+    "ref_date": "2017-11-24",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-24",
+    "user_source": 30,
+    "new_user": 11,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-11-25",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-11-25",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-25",
+    "user_source": 30,
+    "new_user": 13,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-11-26",
+    "user_source": 0,
+    "new_user": 9,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-11-26",
+    "user_source": 30,
+    "new_user": 101,
+    "cancel_user": 19
+  },
+  {
+    "ref_date": "2017-11-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-11-27",
+    "user_source": 30,
+    "new_user": 6,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-28",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-11-28",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-11-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-11-29",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-11-29",
+    "user_source": 30,
+    "new_user": 6,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-11-30",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2017-12-01",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 54
+  },
+  {
+    "ref_date": "2017-12-01",
+    "user_source": 57,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-02",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2017-12-02",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-02",
+    "user_source": 30,
+    "new_user": 14,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-12-03",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-12-03",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-03",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-12-03",
+    "user_source": 30,
+    "new_user": 14,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-12-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-12-04",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-12-05",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-05",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-05",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-12-06",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-06",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-12-07",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-07",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-12-08",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-08",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-09",
+    "user_source": 0,
+    "new_user": 4,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-12-09",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-12-09",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-10",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-12-10",
+    "user_source": 30,
+    "new_user": 9,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-12-11",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-12-11",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-11",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 54
+  },
+  {
+    "ref_date": "2017-12-12",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-12",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-12",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-12-13",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-13",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-13",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-12-14",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-12-14",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-12-15",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-12-15",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2017-12-16",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-12-16",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-16",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-17",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-12-17",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-18",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-12-18",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-18",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-19",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-12-19",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-19",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-20",
+    "user_source": 0,
+    "new_user": 3,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2017-12-20",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-20",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2017-12-21",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-12-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 38
+  },
+  {
+    "ref_date": "2017-12-22",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-22",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-12-22",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-23",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2017-12-23",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-23",
+    "user_source": 30,
+    "new_user": 6,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-12-23",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2017-12-24",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-24",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-25",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2017-12-25",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2017-12-25",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-25",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-26",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 33
+  },
+  {
+    "ref_date": "2017-12-26",
+    "user_source": 17,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-26",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 16
+  },
+  {
+    "ref_date": "2017-12-27",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-27",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-12-28",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2017-12-29",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2017-12-29",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-12-30",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2017-12-31",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2017-12-31",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2018-01-01",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-01",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-01-02",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-01-03",
+    "user_source": 0,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-01-03",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-04",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-01-04",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-01-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-01-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-01-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-01-08",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-01-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2018-01-09",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-10",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-01-10",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-01-10",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-11",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-01-11",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-11",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-12",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-01-12",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-01-13",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-01-14",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-01-15",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-01-16",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-01-17",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-01-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 46
+  },
+  {
+    "ref_date": "2018-01-19",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2018-01-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2018-01-21",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2018-01-22",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2018-01-23",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-23",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-23",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2018-01-24",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-01-25",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-01-25",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-01-26",
+    "user_source": 0,
+    "new_user": 8,
+    "cancel_user": 32
+  },
+  {
+    "ref_date": "2018-01-26",
+    "user_source": 1,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-26",
+    "user_source": 30,
+    "new_user": 18,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-01-27",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2018-01-27",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-27",
+    "user_source": 30,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-28",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-01-28",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-01-28",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-01-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-01-30",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-31",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-01-31",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-01-31",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2018-02-01",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 52
+  },
+  {
+    "ref_date": "2018-02-02",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-02",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 13
+  },
+  {
+    "ref_date": "2018-02-03",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-02-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2018-02-05",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-02-06",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-02-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2018-02-08",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-08",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 25
+  },
+  {
+    "ref_date": "2018-02-09",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-10",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 22
+  },
+  {
+    "ref_date": "2018-02-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-02-11",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2018-02-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-02-14",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 29
+  },
+  {
+    "ref_date": "2018-02-14",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2018-02-15",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-02-15",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-16",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-02-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-02-17",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-02-18",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-19",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-02-19",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-02-20",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-02-21",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-02-22",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-02-23",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-24",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-02-24",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-24",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-02-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-02-26",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-26",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-02-27",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-27",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-02-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-03-01",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-01",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-01",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-02",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-03-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-03-03",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-03",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-03",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-03-04",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-03-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-03-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-06",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-03-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-03-07",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-08",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-03-08",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-03-09",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-09",
+    "user_source": 30,
+    "new_user": 4,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-03-09",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 59
+  },
+  {
+    "ref_date": "2018-03-10",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-10",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-10",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-03-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2018-03-11",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-03-12",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2018-03-13",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-03-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-03-15",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-03-15",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-16",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 34
+  },
+  {
+    "ref_date": "2018-03-16",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-16",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 13
+  },
+  {
+    "ref_date": "2018-03-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-03-18",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2018-03-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-03-20",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-03-21",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-03-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-03-22",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 26
+  },
+  {
+    "ref_date": "2018-03-23",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 11
+  },
+  {
+    "ref_date": "2018-03-24",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2018-03-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2018-03-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-03-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-03-28",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-03-28",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-03-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 36
+  },
+  {
+    "ref_date": "2018-03-30",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-31",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-03-31",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-03-31",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2018-04-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-04-03",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-04-03",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-04-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-04-04",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2018-04-05",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-05",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 20
+  },
+  {
+    "ref_date": "2018-04-06",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-04-06",
+    "user_source": 57,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 12
+  },
+  {
+    "ref_date": "2018-04-07",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2018-04-08",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-09",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-04-09",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-04-10",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-04-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-04-12",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-12",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-04-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 23
+  },
+  {
+    "ref_date": "2018-04-13",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-04-13",
+    "user_source": 57,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-04-14",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2018-04-14",
+    "user_source": 1,
+    "new_user": 5,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2018-04-15",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-15",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-04-16",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-16",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-16",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-04-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-04-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-04-19",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 37
+  },
+  {
+    "ref_date": "2018-04-20",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-20",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-04-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2018-04-21",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-04-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2018-04-23",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-04-24",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-04-26",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-04-26",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-04-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-04-27",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 34
+  },
+  {
+    "ref_date": "2018-04-28",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-28",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-04-29",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-29",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-04-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-04-30",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-05-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-05-01",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-02",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-05-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2018-05-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 22
+  },
+  {
+    "ref_date": "2018-05-04",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-05-04",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-05-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2018-05-05",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-05-05",
+    "user_source": 30,
+    "new_user": 25,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-05-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2018-05-06",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-06",
+    "user_source": 30,
+    "new_user": 97,
+    "cancel_user": 17
+  },
+  {
+    "ref_date": "2018-05-06",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-05-07",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-07",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-05-08",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-05-09",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-09",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-05-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-05-10",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-11",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 37
+  },
+  {
+    "ref_date": "2018-05-11",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-11",
+    "user_source": 57,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-05-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 18
+  },
+  {
+    "ref_date": "2018-05-12",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-12",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-05-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-05-14",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-05-14",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-15",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-05-15",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-15",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-05-16",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-16",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-17",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-17",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-17",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 19
+  },
+  {
+    "ref_date": "2018-05-18",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2018-05-19",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2018-05-21",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 9
+  },
+  {
+    "ref_date": "2018-05-21",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-05-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-05-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-05-23",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-23",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-23",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-05-24",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 26
+  },
+  {
+    "ref_date": "2018-05-25",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-05-25",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-25",
+    "user_source": 57,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2018-05-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-05-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-05-28",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2018-05-29",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-05-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-30",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-31",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-05-31",
+    "user_source": 17,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-05-31",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-01",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-06-01",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-06-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-06-03",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-03",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-06-04",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 10
+  },
+  {
+    "ref_date": "2018-06-05",
+    "user_source": 1,
+    "new_user": 6,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-05",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-05",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-06",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 36
+  },
+  {
+    "ref_date": "2018-06-06",
+    "user_source": 1,
+    "new_user": 19,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-06",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-07",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-06-08",
+    "user_source": 1,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-08",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-09",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-09",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-06-10",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-10",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-11",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-11",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-12",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-06-12",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-06-13",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-13",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 23
+  },
+  {
+    "ref_date": "2018-06-14",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-14",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-14",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-15",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-06-15",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-16",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-06-17",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-17",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-17",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-18",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2018-06-18",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-06-19",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-19",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-06-20",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-21",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-06-21",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-21",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-22",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 27
+  },
+  {
+    "ref_date": "2018-06-22",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-22",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-23",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2018-06-23",
+    "user_source": 30,
+    "new_user": 31,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-06-24",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-06-24",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-24",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-06-24",
+    "user_source": 30,
+    "new_user": 10,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-25",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2018-06-25",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-25",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-26",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2018-06-26",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-26",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-27",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-06-27",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-27",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-28",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-06-28",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-29",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 21
+  },
+  {
+    "ref_date": "2018-06-29",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-06-30",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 14
+  },
+  {
+    "ref_date": "2018-06-30",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-01",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-07-01",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-02",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-07-02",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-03",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 21
+  },
+  {
+    "ref_date": "2018-07-03",
+    "user_source": 1,
+    "new_user": 5,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-07-03",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-04",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 7
+  },
+  {
+    "ref_date": "2018-07-04",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-05",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 8
+  },
+  {
+    "ref_date": "2018-07-05",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-05",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-07-06",
+    "user_source": 0,
+    "new_user": 2,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2018-07-06",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-07",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-07-07",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-07",
+    "user_source": 30,
+    "new_user": 8,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-07-07",
+    "user_source": 43,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-08",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-07-08",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-07-08",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-09",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-07-09",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-09",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-09",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-10",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-07-10",
+    "user_source": 1,
+    "new_user": 3,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-10",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-07-11",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-07-11",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-12",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 2
+  },
+  {
+    "ref_date": "2018-07-12",
+    "user_source": 1,
+    "new_user": 4,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-12",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-13",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 26
+  },
+  {
+    "ref_date": "2018-07-13",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-13",
+    "user_source": 17,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-13",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-13",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-14",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 6
+  },
+  {
+    "ref_date": "2018-07-14",
+    "user_source": 30,
+    "new_user": 18,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-07-14",
+    "user_source": 51,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-15",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 4
+  },
+  {
+    "ref_date": "2018-07-15",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-15",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-16",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-07-16",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-17",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 5
+  },
+  {
+    "ref_date": "2018-07-17",
+    "user_source": 1,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-17",
+    "user_source": 30,
+    "new_user": 2,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-18",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 1
+  },
+  {
+    "ref_date": "2018-07-18",
+    "user_source": 1,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-18",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-18",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-19",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 3
+  },
+  {
+    "ref_date": "2018-07-20",
+    "user_source": 0,
+    "new_user": 0,
+    "cancel_user": 25
+  },
+  {
+    "ref_date": "2018-07-20",
+    "user_source": 30,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-20",
+    "user_source": 57,
+    "new_user": 1,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-21",
+    "user_source": 0,
+    "new_user": 1,
+    "cancel_user": 13
+  },
+  {
+    "ref_date": "2018-07-21",
+    "user_source": 1,
+    "new_user": 9,
+    "cancel_user": 0
+  },
+  {
+    "ref_date": "2018-07-21",
+    "user_source": 30,
+    "new_user": 3,
+    "cancel_user": 1
+  }
+]

@@ -1,0 +1,270 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Gamepoch新闻数据统计</title>
+    <!-- Bootstrap -->
+    <link href="/vendors/gentelella/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="/vendors/gentelella/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <!--link href="../vendors/gentelella/vendors/nprogress/nprogress.css" rel="stylesheet"-->
+    <!-- iCheck -->
+    <!--link href="../vendors/gentelella/vendors/iCheck/skins/flat/green.css" rel="stylesheet"-->
+
+    <!-- bootstrap-progressbar -->
+    <!--link href="../vendors/gentelella/vendors/bootstrap-progressbar/css/bootstrap-progressbar-3.3.4.min.css"
+          rel="stylesheet"-->
+    <!-- JQVMap -->
+    <!--link href="../vendors/gentelella/vendors/jqvmap/dist/jqvmap.min.css" rel="stylesheet"/-->
+    <!-- bootstrap-daterangepicker -->
+    <link href="/vendors/gentelella/vendors/bootstrap-daterangepicker/daterangepicker.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="/vendors/gentelella/build/css/custom.min.css" rel="stylesheet">
+    <style>
+        #container-map {
+            height: 400px; 
+            min-width: 310px; 
+            max-width: 800px; 
+            margin: 10px auto; 
+        }
+        .loading {
+            margin-top: 10em;
+            text-align: center;
+            color: gray;
+        }
+
+    </style>
+</head>
+
+<body class="nav-md">
+<div class="container body">
+    <div class="main_container">
+        <div class="col-md-3 left_col">
+            <div class="left_col scroll-view">
+                <div class="navbar nav_title" style="border: 0;">
+                    <a href="#" class="site_title"><!--i class=""></i--> <span>Gamepoch</span></a>
+                </div>
+                <div class="clearfix"></div>
+                <br/>
+
+                <!-- sidebar menu -->
+                <%- include("./partials/sidebar.ejs") %>
+                <!-- /sidebar menu -->
+            </div>
+        </div>
+
+        <!-- top navigation -->
+        <%- include("./partials/topNavigation")%>
+        <!-- /top navigation -->
+
+        <!-- page content -->
+        <div class="right_col" role="main">
+          <!-- 用户统计数据 -->
+          <div class="row tile_count" style="margin-top: 80px; text-align:center">
+            <div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count">
+              <span class="count_top"><i class="fa fa-users"></i> 累计用户</span>
+              <div class="count"><%= totalUsers %></div>
+              <% if(increaseRate > 0) {%>
+                <span class="count_bottom"><i class="green"><%= increaseRate + '% '  %> </i> 对比上周</span>
+              <% } else {%>
+                <span class="count_bottom"><i class="red"><%= increaseRate + '% ' %> </i> 对比上周</span>
+              <% } %>
+            </div>
+            <div class="col-md-2 col-sm-4 col-xs-6 tile_stats_count">
+              <span class="count_top"><i class="fa fa-user"></i> 用户变化</span>
+              <div class="count"><%= usersChanges %></div>
+              <% if(usersChanges >= 0) {%>
+                <span class="count_bottom"><i class="green"><%= userChangesRate + '% ' %> </i> 对比昨日</span>
+              <% } else { %>
+                <span class="count_bottom"><i class="red"><%= userChangesRate + '% ' %> </i> 对比昨日</span>
+              <% } %>
+            </div>
+          </div>
+          <!-- 用户统计数据  -->
+          <!-- 用户7天数据变化 -->
+          
+          <!-- 用户7天数据变化 -->
+          <!-- 微信新闻数据变化 -->
+          <div class="row">
+            <div class="col-md-12 col-sm-12 col-xs-12">
+              <div class="x_panel" style="min-height: 500px">
+                <div class="x_title">
+                  <h2><i class="fa fa-table" aria-hidden="true"></i> 星游纪微信公众号数据统计<small></small></h2>
+                  <ul class="nav navbar-right panel_toolbox">
+                    <li><a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                    </li>
+                    <li class="dropdown">
+                      <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false"><i class="fa fa-wrench"></i></a>
+                      <ul class="dropdown-menu" role="menu">
+                        <li><a href="#">Settings 1</a>
+                        </li>
+                        <li><a href="#">Settings 2</a>
+                        </li>
+                      </ul>
+                    </li>
+                    <li><a class="close-link"><i class="fa fa-close"></i></a>
+                    </li>
+                  </ul>
+                  <div class="clearfix"></div>
+                </div>
+
+                <div class="x_content">
+                  <p><i class="fa fa-info-circle" aria-hidden="true"></i> 仅统计了图文发出后7天内的累计数据，并且微信手机客户端展示的阅读数，和此处的阅读数的计算方法略有不同，因此两者数值也可能不一样。</p>
+                  <div class="row" style="margin: 0 0 10px">
+                      <div clas="col-md-12">
+                        <div id="reportrange" class="pull-right" style="margin-top: 5px; margin-bottom: 10px;background: #fff; cursor: pointer; padding: 5px 10px; border: 1px solid #E6E9ED">
+                          <i class="glyphicon glyphicon-calendar fa fa-calendar"></i>
+                          <span></span> <b class="caret"></b>
+                        </div>
+                      </div>
+                  </div>
+                  <div class="table-responsive" id="newsList">
+                    <table class="table table-striped jambo_table bulk_action" style="margin-bottom: 0px;">
+                      <thead>
+                        <tr class="headings">
+                          <th class="column-title">文章标题</th>
+                          <th class="column-title">时间</th>
+                          <th class="column-title">阅读人数 </th>
+                          <th class="column-title">阅读次数</th>
+                          <!--th class="column-title">收藏的人数</th>
+                          <th class="column-title">收藏的次数</th>
+                          <th class="column-title">分享人数 </th>
+                          <th class="column-title">分享次数</th>
+                          <th class="column-title">原文页阅读人数</th>
+                          <th class="column-title">原文页阅读次数 </th>
+                          <th class="column-title">用户源</th-->
+                          <th class="column-title no-link last"><span class="nobr">操作</span>
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                      </tbody>
+                    </table>
+                  </div>
+                    <!-- start accordion -->
+                  <div class="accordion" id="accordion" role="tablist" aria-multiselectable="true">
+                    <!-- collapse3 -->
+                    <div class="panel">
+                      <!--a class="panel-heading collapsed" role="tab" id="headingThree" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        <h4 class="panel-title"></h4>
+                      </a-->
+                      <div id="collapsePanel" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+                        <h2 class="text-center" style="margin: 20px 0; display:none" id="articleTitleLabel"> 文章标题 </h2>
+                        <div class="panel-body">
+                          <div class="row">
+                            <div class="col-xs-12 col-md-6 col-lg-6">
+                              <p>1、阅读来源分布</p>
+                              <div id="container1" style=""></div>
+                            </div>
+                            <div class="col-xs-12 col-md-6 col-lg-6">
+                              <p>2、阅读发展趋势</p>
+                              <div id="container2" style=""></div>
+                            </div>
+                          </div>
+                          <div class="row" style="margin-top: 50px">
+                            <div class="panel-body">
+                              <p>3、图文7天数据详情</p>
+                              <table id="dataDetail" class="table table-bordered">
+                                <thead>
+                                  <tr>
+                                    <th>时间</th>
+                                    <th>图文页阅读（人数）</th>
+                                    <th>从公众号会话打开（人数）</th>
+                                    <th>从朋友圈打开（人数）</th>
+                                    <th>分享转发（人数）</th>
+                                    <th>微信收藏人数（人数）</th>
+                                  </tr>
+                                </thead>
+                                <tbody>
+                                </tbody>
+                              </table>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- end of accordion -->
+                </div>
+              </div>
+            </div>
+        </div>
+          <!-- 微信新闻数据变化 -->
+        </div>
+        <!-- /page content -->
+        <!-- footer content -->
+        <footer>
+            <div class="pull-right">
+                上海星游纪信息技术有限公司 <a href="http://www.gamepoch.com">Gamepoch</a>
+            </div>
+            <div class="clearfix"></div>
+        </footer>
+        <!-- /footer content -->
+    </div>
+</div>
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+<!-- Bootstrap -->
+<script src="/vendors/gentelella/vendors/bootstrap/dist/js/bootstrap.min.js"></script>
+<!-- FastClick -->
+<!--script src="../vendors/gentelella/vendors/fastclick/lib/fastclick.js"></script-->
+<!-- NProgress -->
+<!--script src="../vendors/gentelella/vendors/nprogress/nprogress.js"></script-->
+<!-- Chart.js -->
+<!--script src="../vendors/gentelella/vendors/Chart.js/dist/Chart.min.js"></script-->
+<!-- gauge.js -->
+<!--script src="../vendors/gentelella/vendors/gauge.js/dist/gauge.min.js"></script-->
+<!-- bootstrap-progressbar -->
+<!--script src="../vendors/gentelella/vendors/bootstrap-progressbar/bootstrap-progressbar.min.js"></script-->
+<!-- iCheck -->
+<!--script src="../vendors/gentelella/vendors/iCheck/icheck.min.js"></script-->
+<!-- Skycons -->
+<!--script src="../vendors/gentelella/vendors/skycons/skycons.js"></script-->
+<!-- Flot -->
+<!--script src="../vendors/gentelella/vendors/Flot/jquery.flot.js"></script>
+<script src="../vendors/gentelella/vendors/Flot/jquery.flot.pie.js"></script>
+<script src="../vendors/gentelella/vendors/Flot/jquery.flot.time.js"></script>
+<script src="../vendors/gentelella/vendors/Flot/jquery.flot.stack.js"></script>
+<script src="../vendors/gentelella/vendors/Flot/jquery.flot.resize.js"></script-->
+<!-- Flot plugins -->
+<!--script src="../vendors/gentelella/vendors/flot.orderbars/js/jquery.flot.orderBars.js"></script>
+<script src="../vendors/gentelella/vendors/flot-spline/js/jquery.flot.spline.min.js"></script>
+<script src="../vendors/gentelella/vendors/flot.curvedlines/curvedLines.js"></script-->
+<!-- DateJS -->
+<!--script src="../vendors/gentelella/vendors/DateJS/build/date.js"></script-->
+<!-- JQVMap -->
+<!--script src="../vendors/gentelella/vendors/jqvmap/dist/jquery.vmap.js"></script>
+<script src="../vendors/gentelella/vendors/jqvmap/dist/maps/jquery.vmap.world.js"></script>
+<script src="../vendors/gentelella/vendors/jqvmap/examples/js/jquery.vmap.sampledata.js"></script-->
+<!-- bootstrap-daterangepicker -->
+<script src="/vendors/gentelella/vendors/moment/min/moment.min.js"></script>
+<script src="/vendors/gentelella/vendors/bootstrap-daterangepicker/daterangepicker.js"></script>
+
+<!-- Custom Theme Scripts -->
+<script src="/js/custom.js"></script>
+
+<!-- HighCharts -->
+<script src="https://img.hcharts.cn/highcharts/highcharts.js"></script>
+<script src="https://img.hcharts.cn/highcharts/modules/exporting.js"></script>
+<script src="https://img.hcharts.cn/highcharts-plugins/highcharts-zh_CN.js"></script>
+<!--  HighMaps -->
+<script src="https://code.highcharts.com/maps/modules/map.js"></script>
+<script src="https://code.highcharts.com/maps/modules/exporting.js"></script>
+<script src="https://code.highcharts.com/mapdata/countries/cn/custom/cn-all-sar-taiwan.js"></script>
+
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+    window.getarticlesummary = <%- JSON.stringify(getarticlesummary) %>;
+    window.getarticletotal = <%- JSON.stringify(getarticletotal) %>;    
+</script>
+<script src="/js/gamepochwechat.js"></script>
+</body>
+</html>

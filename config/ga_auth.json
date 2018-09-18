@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gifted-pulsar-210707",
+  "private_key_id": "cbb93b217a08f7ceaa8559a187d0bdc81bf67cb8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+taV5rP4WoxHa\nS29H8L7v4qYdfGVddp87yr/3QgNe2SE1ur2tc0hE/UpLNDm1kaIyaEq7KEUdhKad\n1MpCrk0LkDC1y69Do6r2n7n9DhDzENCi6h84Tk2CW4U0OLn1TSXyI4Vu3XtApw1q\nolGgWwOLJ83y2+LgY8qGudyOoCu0FOe/ZOD1ttSPkuqd848vQLCtc3bkfeEklt+n\niIP2H9/sfE/7vqB9ZydAjDTu1K9l1Jp2Tx1MWKcfb+kezkWazozuLYhGnbfQCUTW\nRZ0Ad9PcePtSazDLbR961javBfPpFB79ZTq552bKs/nyC/XN1jCxu62wTvDvTcn9\nD5s9GlXzAgMBAAECggEAVUgvroDQw1i69A6FvfsHt4h4Vnk5bxlLzdY2ECEiFrks\nY7WVesoxyEAoiAbbw7lTeg0vVhCFD9UxGSV+KWF+rKwXTETApJO9MTpuVp6Cr9+W\nHTRrL6e8e43nvFmdtvd//48o7VH3+wp5MnVR4U6x//mV3IO+KjAV8jeNTO6NfKKR\nMWE8egYHCbLAXnX/3kR9YO8N0LFCM7TYDXx6NVIrOV2TTwibkJC0WQVVWQvd0CKk\nOKINRYd9FVRFDZ8CYyDfn+pb4hVTW9Wbst2Y5DwR3ZWjWBbx6vZclea6CnjE8pFU\n8BQiiwBf2wP/u5w2xuRcuz0rVYtKxaqmIC5KpzSS6QKBgQD81xlf6dK9b3+NwH33\nQBgcvFWFjqXrODXDb7c665NYay97nIIAIIQCnpbfdarbw1yNX118fPLyLgTZaOFz\nUUBY97e3yiq4EvthzTTpDck4BzX89BOok1CdNVCI8Ng8sWcV/TIaiGDiOtU4lulf\nNA/QrHzdzpXMeL8SMQ+bv4LlBwKBgQDBF8Z4NElWqH5m+n3c3pFA/VDuiJgOMtPf\nz9SApFhFZtxVN+dAvywkqUf5PGQtsZOkahLUx2yaKatUvIl6FnGtHuCy8ud+zorP\n0qAcAsf9+Z8fneMpsEcj4uijqSwa0jBc+gGBP4UT6RnBJBq27ayphW8cuh8YjrlP\n654R8YxYtQKBgQDnUA5p3iwrnPcQAzv62Mt2dqKzJlcLBAjDvM/f+qd5q83sA7o3\nTYgYMWiMFUVz+p4QxF9txY4qHAnZsQcZDguVmUOdxDoi31LWHfu6/x7IwGgW/GGD\nxwpoWN9N+TGLDS3nQxX0ijJAplxtgjsNGz8gxL0T26zWPN1pUjMaZTHmPwKBgG5e\nfJ8wo8rYvId4HoEk5rnTEXOGuANFoj2HudteFOZ2iPJc5d3oZ/78k5suncRQgCe2\nSdU9uCHWN4xTx/D06z0dLSqcFR4ySL3JkqLwJAhTqlSUFsg5bjBg/sCtbfxWsDY0\n4K9T82kSEBqJ3Is7BzpOfthYunV6/wljkBKJksMRAoGAYQtF2ubLseEv5IqGdPvj\nhVwsji6PdFEbENvq24OjZBBdlmtUntGG4AGFtL9bnDn/Txf8Gt23c34z4G7DYiXU\nYQoia4TDPu7yGmAMuxAYyAGkshL1kfO/dRuhaauXyPDA4GO/zB73CPJbXVMHFDGt\nsTY00oBXWsEroeJrqY0XFK8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googleanalyticsapi@gifted-pulsar-210707.iam.gserviceaccount.com",
+  "client_id": "117015456313500872201",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googleanalyticsapi%40gifted-pulsar-210707.iam.gserviceaccount.com"
+}
