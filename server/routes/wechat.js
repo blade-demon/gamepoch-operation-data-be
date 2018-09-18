@@ -244,7 +244,7 @@ router.route('/getuserinfo')
     });
 
 // 从微信服务器获取最新所有用户的基本信息
-router.route('/batchgetuserinfo')
+router.route('/services/batchgetuserinfo')
     .post(async(req, res) => {
         try {
             var user_list = req.body.user_list;
