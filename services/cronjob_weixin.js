@@ -69,7 +69,8 @@ const insertManyNewsArticleTotalToDB = (array) => {
 // 每天更新
 const updateNewsArticleTotalForDB = async(date, newData) => {
   // 当天没有推送新的新闻，更新历史数据
-  await wechatNewsArticleTotal.remove({ ref_date: { $gt: date } });
+  console.log("debug articleTotal data");
+  await wechatNewsArticleTotal.remove({ ref_date: { $gte: date } });
   await wechatNewsArticleTotal.insertMany(newData);
 }
 
@@ -178,6 +179,7 @@ var getLatestUserCumulateDate = () => {
 }
 
 var start = async function() {
+  console.log(new moment().format("L"));
   // 一共需要执行4项更新工作
   try {
     // step1: 更新userRead数据
@@ -283,7 +285,7 @@ var start = async function() {
   }
   catch (e) {
     console.log(e);
-    console.log("更新article total数据失败!");
+    console.log("更新数据失败!");
   }
   
   // 正常推出程序

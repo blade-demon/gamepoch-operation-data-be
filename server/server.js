@@ -5,6 +5,7 @@ const serveStatic = require('serve-static');
 const bodyParser = require("body-parser");
 const cors = require('cors');
 // configure views path
+app.use(express.static(path.join(__dirname, '../app/public')));
 app.set('views', path.join(__dirname,'../app/views'));
 
 // bodyParser config

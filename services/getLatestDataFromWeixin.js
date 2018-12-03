@@ -48,7 +48,7 @@ const writeFile = (data, filename, cb) => {
 
 
 const start = async() => {
-    const dateRange = getDateRange("2018-07-24", "2018-09-13");
+    const dateRange = getDateRange("2018-10-08", "2018-11-08");
     let data = [];
     for (let i = 0; i < dateRange.length; i++) {
         console.log("正在计算" + dateRange[i] + "的数据");
