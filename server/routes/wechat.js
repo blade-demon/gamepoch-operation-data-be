@@ -26,6 +26,37 @@ router.use(async(req, res, next) => {
 });
 
 /**
+ * 查看指定文章的评论数据
+ * https 请求方式: POST
+ * https://api.weixin.qq.com/cgi-bin/comment/list?access_token=ACCESS_TOKEN
+ * @param   {Number}    msg_data_id  群发返回的msg_data_id
+ * @param   {Number}    index        多图文时，用来指定第几篇图文，不带默认返回该msg_data_id的第一篇图文
+ * @param   {Number}    begin        起始位置
+ * @param   {Number}    count        获取数目
+ * @param   {Number}    type         type=0 普通评论&精选评论 type=1 普通评论 type=2 精选评论
+ */
+
+router.route('/commentList')
+    .post(async(req, res) => {
+        try {
+            checkDateValid(req.query.startDate, req.query.endDate);
+            var response = await axios.post(`https://api.weixin.qq.com/cgi-bin/comment/list?access_token=${req.wechattoken}`, {
+                msg_data_id: req.query.msg_data_id, 
+                index: 0,
+                begin: 0,
+                count: req.query.count,
+                type: 0
+            });
+            res.status(200).send(response.data);
+        }
+        catch (e) {
+            console.log(e);
+            res.status(500).send(e.stack);
+        };
+    });
+
+
+/**
  * 从Gamepoch后台获取图文统计数据（getuserread）
  * @param   startDate   {String} 开始日期
  * @param   endDate     {String} 结束日期
@@ -109,6 +140,33 @@ router.route('/gamepoch/getarticletotal')
             res.status(500).send(e.stack);
         };
     });
+
+/**
+ * 从Gamepoch服务器查询已经获得的图文群发总数据（articlesaudit）
+ * @param   startDate   {String} 开始日期
+ * @param   endDate     {String} 结束日期
+ * @return              {Array}  返回指定日期区间的数据列表
+ */
+router.route('/gamepoch/articlesaudit')
+    .get(async(req, res) => {
+        try {
+            checkDateValid(req.query.startDate, req.query.endDate);
+            const dataArray = await wechatNewsArticleTotal.find({
+                ref_date: {
+                    $gte: req.query.startDate,
+                    $lte: req.query.endDate
+                },
+            }).sort({ ref_date: 1 });
+          const result = dataArray.map(item => ({"ref_date": item.ref_date, "title": item.title, details: item.details.slice(-1)[0]}))
+        // const result = dataArray.map(item => item)
+            res.status(200).send(result);
+        }
+        catch (e) {
+            res.status(500).send(e.stack);
+        };
+    });
+    
+
 
 /**
  * 从微信服务器获得图文群发总数据（getarticletotal）
