@@ -26,6 +26,48 @@ router.use(async(req, res, next) => {
 });
 
 /**
+ * 获得用户列表
+ * 
+ * 当公众号关注者数量超过10000时，可通过填写next_openid的值，从而多次拉取列表的方式来满足需求。
+ * 具体而言，就是在调用接口时，将上一次调用得到的返回中的next_openid值，作为下一次调用中的next_openid值。
+ * 
+ * @param {String} access_token 调用接口凭证
+ * @param {String} next_openid 第一个拉取的openid,不填默认从头开始拉取
+ */
+ 
+  router.route('/userList')
+    .get(async(req, res) => {
+        try {
+            var response = await axios.get(`https://api.weixin.qq.com/cgi-bin/user/get?access_token=${req.wechattoken}`);
+            res.status(200).send(response.data);
+        }
+        catch (e) {
+            console.log(e);
+            res.status(500).send(e.stack);
+        };
+    });
+
+
+/**
+ * 获得用户基本信息
+ * 
+ * @param {String} access_token 调用接口凭证
+ * @param {String} openid 普通用户标识，对当前公众号唯一
+ */
+ router.route('/userInfo')
+    .get(async(req, res) => {
+        try {
+            var response = await axios.get(`https://api.weixin.qq.com/cgi-bin/user/info?access_token=${req.wechattoken}&openid=${req.query.openid}&lang=zh_CN`);
+            res.status(200).send(response.data);
+        }
+        catch (e) {
+            console.log(e);
+            res.status(500).send(e.stack);
+        };
+    });
+ 
+
+/**
  * 查看指定文章的评论数据
  * https 请求方式: POST
  * https://api.weixin.qq.com/cgi-bin/comment/list?access_token=ACCESS_TOKEN
